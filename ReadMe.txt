@@ -14,6 +14,3 @@ This PowerShell script doses.
 2. Outputs info it gets to screen or file, depending on if file out is turned off.
 (default outputs to file and screen) 
 
-https://github.com/Alixxisanerd/BasicPcInfo/tree/master 
-
-Script by Alix.
