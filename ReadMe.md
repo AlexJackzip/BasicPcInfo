@@ -1,4 +1,4 @@
-!Do not run any PowerShell script without knowing what it doses!
+##BasicPCInfo
 
 This PowerShell script doses.
 1.Gets Computer name
