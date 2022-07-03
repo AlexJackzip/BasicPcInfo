@@ -1,7 +1,7 @@
 # **BasicPCInfo**
 
 This PowerShell script doses.
-Gets...
+Gets...   
 1.Computer name.  
 2.Serial num giving by oem.  
 3.Domain the computer is in.   
