@@ -12,6 +12,6 @@ Gets...
 8.Physical Disk type and name.   
 9.Ram amount in bytes.   
 
-2. Outputs info it gets to screen or file, depending on if file out is turned off.   
+Then outputs info it gets to screen or file, depending on if file out is turned off.   
 (default outputs to file and screen) 
 
